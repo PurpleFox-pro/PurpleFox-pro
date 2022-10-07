@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PurpleFox-pro real name is Ahmed
+- 👋 Hi, I’m @PurpleFox-pro real name is Ahmed Bhuiyan
 - 👀 I’m interested in sleeping but mostly like to be creative when i write code
 - 🌱 I’m currently learning Frontend and backend JS
 - 💞️ I’m looking to collaborate on ...
